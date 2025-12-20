@@ -20,7 +20,7 @@ body {
   text-align: center;
   padding: 40px;
   border-radius: 12px;
-  background: rgba(251, 161, 3);
+  background: rgb(251, 161, 3);
 }
 
 .hero-content h1 {
