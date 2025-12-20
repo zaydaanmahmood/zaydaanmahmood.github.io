@@ -26,10 +26,12 @@ body {
 .hero-content h1 {
   font-size: 3rem;
   margin-bottom: 10px;
+  color: black;
 }
 
 .hero-content h2 {
   font-size: 1.5rem;
   font-weight: 300;
   opacity: 0.9;
+  color: black;
 }
