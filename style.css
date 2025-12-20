@@ -19,8 +19,7 @@ body {
   text-align: center;
   padding: 40px;
   border-radius: 12px;
-  background: rgb(0,0,0);
-  color: #fca103;
+  background: #fca103;
 }
 
 .hero-content h1 {
